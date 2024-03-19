@@ -1,7 +1,3 @@
----
-title: My Website
----
-
 # Welcome to My Website
 
 ## About Me
