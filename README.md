@@ -2,31 +2,6 @@
 title: My Website
 ---
 
-<style>
-/* Body background color */
-body {
-    background-color: #f0f0f0;
-    font-family: Arial, sans-serif;
-    color: #333;
-}
-
-/* Header styles */
-h1 {
-    color: #007bff;
-}
-
-/* Link styles */
-a {
-    color: #007bff;
-    text-decoration: none;
-}
-
-/* Link hover styles */
-a:hover {
-    text-decoration: underline;
-}
-</style>
-
 # Welcome to My Website
 
 ## About Me
